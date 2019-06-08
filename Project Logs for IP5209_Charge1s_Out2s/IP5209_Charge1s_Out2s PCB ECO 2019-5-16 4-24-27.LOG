@@ -1,0 +1,21 @@
+Added Component: Designator=B1(186502s电池座)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K?(六脚船型开关21*15)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(IP5209)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ING Pin=B1-3
+Added Pin To Net: NetName=ING Pin=K?-5
+Added Net: Name=ING
+Added Pin To Net: NetName=INV Pin=B1-2
+Added Pin To Net: NetName=INV Pin=K?-3
+Added Pin To Net: NetName=INV Pin=K?-4
+Added Net: Name=INV
+Added Pin To Net: NetName=OUTG Pin=B1-4
+Added Pin To Net: NetName=OUTG Pin=K?-6
+Added Net: Name=OUTG
+Added Pin To Net: NetName=OUTV Pin=B1-1
+Added Pin To Net: NetName=OUTV Pin=K?-2
+Added Net: Name=OUTV
+Added Class: Name=IP5209_Charge1s_Out2s
+Added Room: Name=IP5209_Charge1s_Out2s

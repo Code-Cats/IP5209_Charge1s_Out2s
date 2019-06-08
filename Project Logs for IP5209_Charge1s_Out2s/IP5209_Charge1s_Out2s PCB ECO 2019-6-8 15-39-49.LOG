@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=BAT_COMG Pin=J1-A1
+Removed Pin From Net: NetName=VIN Pin=J1-A4
+Removed Pin From Net: NetName=DP Pin=J1-A6
+Removed Pin From Net: NetName=DM Pin=J1-A7
+Removed Pin From Net: NetName=VIN Pin=J1-A9
+Removed Pin From Net: NetName=BAT_COMG Pin=J1-A12
+Removed Pin From Net: NetName=BAT_COMG Pin=J1-B1
+Removed Pin From Net: NetName=VIN Pin=J1-B4
+Removed Pin From Net: NetName=DP Pin=J1-B6
+Removed Pin From Net: NetName=DM Pin=J1-B7
+Removed Pin From Net: NetName=VIN Pin=J1-B9
+Removed Pin From Net: NetName=BAT_COMG Pin=J1-B12
+Removed Pin From Net: NetName=BAT_COMG Pin=J1-SH1
+Removed Pin From Net: NetName=BAT_COMG Pin=J1-SH2
+Removed Pin From Net: NetName=BAT_COMG Pin=J1-SH3
+Removed Pin From Net: NetName=BAT_COMG Pin=J1-SH4
+Removed Pin From Net: NetName=BAT_COMG Pin=K2-0
+Removed Pin From Net: NetName=BAT_COMG Pin=K2-0
+Removed Pin From Net: NetName=VIN Pin=K2-1
+Removed Pin From Net: NetName=DP Pin=K2-2
+Removed Pin From Net: NetName=DM Pin=K2-3
+Removed Pin From Net: NetName=BAT_COMG Pin=K2-5
+Removed Member From Class: ClassName=IP5209_Charge1s_Out2s Member=K2
+Change Component Designator: OldDesignator=K3 NewDesignator=J4
+Added Component: Designator=J1(MicroUSB-ÌùÆ¬)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(USB3.1 TYPE-C 26P Ä¸×ù)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ÌÔ±¦Á´½Ó"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://item.taobao.com/item.htm?spm=a1z09.2.0.0.218a2e8d061sbX&id=537324480875&_u=729bem1b42b5"; VariantName = "[No Variations]"
+Added Component: Designator=J3(USB2.0 AÄ¸È«ÌùÎÞ±ß)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ÌÔ±¦Á´½Ó"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://item.taobao.com/item.htm?spm=a1z09.2.0.0.218a2e8d061sbX&id=529396688207&_u=729bem1b349e"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_COMG Pin=J1-0
+Added Pin To Net: NetName=BAT_COMG Pin=J1-0
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=BAT_COMG Pin=J1-5
+Added Pin To Net: NetName=BAT_COMG Pin=J2-0
+Added Pin To Net: NetName=BAT_COMG Pin=J2-0
+Added Pin To Net: NetName=BAT_COMG Pin=J2-0
+Added Pin To Net: NetName=BAT_COMG Pin=J2-0
+Added Pin To Net: NetName=BAT_COMG Pin=J2-A1
+Added Pin To Net: NetName=VIN Pin=J2-A4
+Added Pin To Net: NetName=VIN Pin=J2-A9
+Added Pin To Net: NetName=BAT_COMG Pin=J2-A12
+Added Pin To Net: NetName=BAT_COMG Pin=J2-B1
+Added Pin To Net: NetName=VIN Pin=J2-B4
+Added Pin To Net: NetName=VIN Pin=J2-B9
+Added Pin To Net: NetName=BAT_COMG Pin=J2-B12
+Added Pin To Net: NetName=BAT_COMG Pin=J3-0
+Added Pin To Net: NetName=BAT_COMG Pin=J3-0
+Added Pin To Net: NetName=BAT_COMG Pin=J3-0
+Added Pin To Net: NetName=BAT_COMG Pin=J3-0
+Added Pin To Net: NetName=VOUT Pin=J3-1
+Added Pin To Net: NetName=DM Pin=J3-2
+Added Pin To Net: NetName=DP Pin=J3-3
+Added Pin To Net: NetName=BAT_COMG Pin=J3-4
+Added Member To Class: ClassName=IP5209_Charge1s_Out2s Member=Component J2 USB3.1 TYPEC
+Added Member To Class: ClassName=IP5209_Charge1s_Out2s Member=Component J3 USBA2.0
+Added Room: Name=IP5209_Charge1s_Out2s

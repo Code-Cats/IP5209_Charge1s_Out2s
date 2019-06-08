@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C1 Old Comment=2.2uF (225)  New Comment=2.2uF (225)
+Change Component Comment : Designator=R3 Old Comment=2¦¸ (2R00)  New Comment=2¦¸ (2R00)
+Added Pin To Net: NetName=VIN Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-5
+Added Room: Name=IP5209_Charge1s_Out2s

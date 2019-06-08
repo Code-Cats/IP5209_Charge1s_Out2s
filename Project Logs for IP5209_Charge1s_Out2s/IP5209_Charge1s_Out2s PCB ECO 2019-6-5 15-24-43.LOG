@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VIN Pin=*-1
+Removed Pin From Net: NetName=DM Pin=*-2
+Removed Pin From Net: NetName=DP Pin=*-3
+Removed Pin From Net: NetName=GND Pin=*-5
+Removed Pin From Net: NetName=GND Pin=*-6
+Removed Pin From Net: NetName=GND Pin=*-7
+Removed Member From Class: ClassName=IP5209_Charge1s_Out2s Member=*
+Added Component: Designator=K2(MicroUSB-ÌùÆ¬)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K3(XT30PW-F)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=GND Pin=K1-6
+Added Pin To Net: NetName=GND Pin=K2-0
+Added Pin To Net: NetName=GND Pin=K2-0
+Added Pin To Net: NetName=VIN Pin=K2-1
+Added Pin To Net: NetName=DP Pin=K2-2
+Added Pin To Net: NetName=DM Pin=K2-3
+Added Pin To Net: NetName=GND Pin=K2-5
+Added Pin To Net: NetName=GND Pin=K3-0
+Added Pin To Net: NetName=GND Pin=K3-0
+Added Pin To Net: NetName=BAT_OUTV Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K3-2
+Change Net Name : Old Net Name=GND New Net Name=BAT_COMG
+Added Member To Class: ClassName=IP5209_Charge1s_Out2s Member=Component K2 Micro USB
+Added Member To Class: ClassName=IP5209_Charge1s_Out2s Member=Component K3 XT30PW
+Added Room: Name=IP5209_Charge1s_Out2s

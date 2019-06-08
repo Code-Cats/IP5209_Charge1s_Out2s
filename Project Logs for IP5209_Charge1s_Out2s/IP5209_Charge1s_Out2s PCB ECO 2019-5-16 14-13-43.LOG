@@ -1,0 +1,4 @@
+Added Component: Designator=*(microusb)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=IP5209_Charge1s_Out2s Member=Component * MicroUSB
+Added Room: Name=IP5209_Charge1s_Out2s
